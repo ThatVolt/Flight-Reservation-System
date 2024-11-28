@@ -45,11 +45,15 @@ This is a simple **Flight Reservation System** built using Python. It allows use
 ```bash
 flight-reservation-system/
 │
-├── flight.py            # Contains flight data, flight-related functions
-├── reservation.py       # Manages reservations and user-related actions
-├── main.py              # Main driver program that runs the system
-├── requirements.txt     # Required Python packages
-└── README.md            # Project documentation
+├── dashboard.py
+├── sample_flights.py
+├── report.py
+├── flight.py
+├── reservation.py
+├── main.py
+├── utils.py
+├── requirements.txt
+└── README.md
 ```
 
 
