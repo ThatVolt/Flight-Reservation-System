@@ -29,7 +29,7 @@ This is a simple **Flight Reservation System** built using Python. It allows use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-reservation-system.git
+   git clone https://github.com/ThatVolt/flight-reservation-system.git
    ```
 2. Navigate into the project directory:
    ```bash
