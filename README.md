@@ -58,7 +58,7 @@ flight-reservation-system/
 
 
 ### Notes:
-- Replace `https://github.com/yourusername/flight-reservation-system.git` with your actual GitHub repository URL.
+- Replace `https://github.com/ThatVolt/flight-reservation-system.git` with your actual GitHub repository URL.
 - If you don’t have a `requirements.txt` yet, you can generate it by running:
   ```bash
   pip freeze > requirements.txt
